@@ -36,4 +36,4 @@ No equivalent unit. New unit.
 ## Links
 https://git.com/TheSchoolofBitcoinCurriculum/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/LICENSE
 
-https://git.com/TheSchoolofBitcoinCurriculum/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/LICENSE
+https://git.com/TheSchoolofBitcoinCurriculum/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/Course%20Outline
