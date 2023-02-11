@@ -8,26 +8,32 @@ It applies to those in roles such as Bitcoin developers, Bitcoin engineers, Bitc
 Bitcoin
 
 ## Elements and Performance Criteria
+Elements | Performance Critera
+| :--- | :---
+Elements describe the essential outcomes  | Performance criteria describe the performance needed to demonstrate achievement of the element.
+Utilising git as a distributed version control system that tracks changes in any set of computer files  |Create a repo - to put a project up on git, you will need to create a repository for it to live in. <br><br>Fork a repo - A fork is a new repository that shares code and visibility settings with the original “upstream” repository.<br><br> Contributing to projects - Learn how to contribute to a project through forking.<br><br>Communicating on git - You can discuss specific projects and changes, as well as broader ideas or team goals, using different types of discussions on git.
+Identify and design a decentralised network |Gather data according to web5 needs<br><br> Determine security and platform for decentralised network<br><br>Document design plan for decentralised network.
+Implement decentralised network| Set up required platform according to design plan<br><br>Initialise decentralised network solution according specifications<br><br>Share content via decentralised network<br><br>Debug and scale decentralised network
+Maintain decentralised network|Test performance of ecentralised network<br><br>Determine and conduct maintenance tests
 
-_Elements describe the essential outcomes._
-  - _Performance criteria describe the performance needed to demonstrate achievement of the element_
+## Foundaton Skills
+*This section describes those language, literacy, numeracy and employment skills that are essential to performance but not explicit in the erformance criteria.*
 
-1. Utilising git as a distributed version control system that tracks changes in any set of computer files
+Skill  | Description
+| :--- | :---
+Learning |Monitors outcomes of decisions, considering results and identifying key concepts and principles that may be adaptable in the future
+Numeracy |Uses mathematical formulae to calculate required equipment, undertake measurements and determine response times
+Reading |Recognises and interprets technical, manufacturer and organisational documentation to determine and confirm job requirements
+Writing | Prepares documentation outlining maintenance schedule according to specified requirements
+Planning and organising |Operates from a broad conceptual plan, developing the operational detail in stages, regularly reviewing priorities and performance during implementation, and identifying and addressing issues
+Problem solving |Uses nuanced understanding of context to recognise anomalies and subtle deviations to normal expectations, focusing attention and remedying problems as they arise
+Self Management | Takes full responsibility for identifying and considering relevant organisational protocols and requirements<br><br>Uses systematic processes, setting goals, gathering required information and identifying and evaluating options against agreed criteria
+Technology |Demonstrates a sophisticated understanding of principles, concepts, language and practices associated with the digital world
 
-    1. Create a repo - to put a project up on git, you will need to create a repository for it to live in.
-    2. Fork a repo - A fork is a new repository that shares code and visibility settings with the original “upstream” repository.
+## Unit Mapping Information
+No equivalent unit. New unit.
 
-    3. Contributing to projects - Learn how to contribute to a project through forking.
+## Links
+https://git.com/TheSchoolofBitcoinCurriculum/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/LICENSE
 
-    4. Communicating on git - You can discuss specific projects and changes, as well as broader ideas or team goals, using different types of discussions on git.
-
-2. Identify and design a decentralised network
-    1. Gather data according to web5 needs
-
-    2. Determine security and platform for decentralised network
-
-    3. Document design plan for decentralised network
-
-
-
-
+https://git.com/TheSchoolofBitcoinCurriculum/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/LICENSE
