@@ -18,5 +18,7 @@
 
     2. Go to 
 
-[Case Study + Skill](https://github.com/Cam-ox/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/Assessment%20Tasks/TSOBTC001-Git-Basics_Assessment-Tasks.md)
 
+
+
+[Unit of Competency](../Units-of-competency/TSOBTC001%20-%20Git%20Basics%20and%20Decentralised%20Networks.md)
