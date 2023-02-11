@@ -21,4 +21,4 @@
 
 
 
-[Unit of Competency](../Units-of-competency/TSOBTC001%20-%20Git%20Basics%20and%20Decentralised%20Networks.md)
+[Unit of Competency](/Units-of-competency/TSOBTC001%20-%20Git%20Basics%20and%20Decentralised%20Networks.md)
