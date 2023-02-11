@@ -2,7 +2,7 @@
 
 Unit Code | Unit Description | Assessment Type |Assessment Tasks
 | :--- | :--- | :--- | :---
-TSOBTC001 |Git Basics and Opensource Collaboration |Knowledge + Skill | Case Study + Practical
+TSOBTC001 |Git Basics and Opensource Collaboration |Knowledge + Skill | [Case Study + Practical](https://github.com/Cam-ox/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/Assessment%20Tasks/TSOBTC001-Git-Basics_Assessment-Tasks.md)
 TSOBTC002 |What is Money and how is Bitcoin different from the current Fait system |Knowledge | Essay
 TSOBTC003 |Asymmetric encryption | Knowledge | Q&A
 TSOBTC004 |Bitcoin Privacy and Security |Knowledge + Skill | Q&A + Practical
