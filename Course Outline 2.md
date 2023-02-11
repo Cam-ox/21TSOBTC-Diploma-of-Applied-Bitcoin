@@ -1,4 +1,4 @@
-# Diploma of Applied Bitcoin - Course Oultine
+# Diploma of Applied Bitcoin - Course Outline
 
 Unit Code | Unit Description | Assessment Type |Assessment Tasks
 | :--- | :--- | :--- | :---
