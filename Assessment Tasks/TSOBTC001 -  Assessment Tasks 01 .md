@@ -23,4 +23,4 @@
 
 ## Relates to:
 
-[TSOBTC001 - Git Basics and Opensource Collaboration](/Units%20of%20Competency/TSOBTC001%20-%20Git%20Basics%20and%20Decentralised%20Networks.md)
+[TSOBTC001 - Git Basics and Opensource Learning](/Units%20of%20Competency/TSOBTC001%20-%20Git%20Basics%20and%20Opensource%20Learning.md)
