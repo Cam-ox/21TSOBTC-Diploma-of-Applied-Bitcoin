@@ -1,4 +1,4 @@
-# TSOBTC001 - Git Basics and Decentralised Networks
+# TSOBTC001 - Git Basics and Opensource Learning
 
 ## Application
 This unit describes the skills and knowledge required to identify, develop and maintain a decentralised network utilising git.
