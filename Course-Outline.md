@@ -25,3 +25,7 @@ TSOBTC0020 |Taxation and Accounting with Bitcoin |Knowledge + Skill |Q&A + Pract
 TSOBTC0021 |Final Presentation "Integrate Bitcoin into a current business or build a new business using Bitcoin" |Knowledge + Skill |Case Study + Practical
 
      Application for Stacks BTC Learner Fund.
+
+## Related:
+
+[License](/LICENSE)

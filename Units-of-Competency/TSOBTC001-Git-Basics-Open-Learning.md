@@ -30,10 +30,12 @@ Problem solving |Uses nuanced understanding of context to recognise anomalies an
 Self Management | Takes full responsibility for identifying and considering relevant organisational protocols and requirements<br><br>Uses systematic processes, setting goals, gathering required information and identifying and evaluating options against agreed criteria
 Technology |Demonstrates a sophisticated understanding of principles, concepts, language and practices associated with the digital world
 
+
 ## Unit Mapping Information
 No equivalent unit. New unit.
 
-## Links
-https://git.com/TheSchoolofBitcoinCurriculum/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/LICENSE
+# Related:
+[Diploma of Applied Bitcoin - Course OUtline](/Course-Outline.md)
 
-https://git.com/TheSchoolofBitcoinCurriculum/21TSOBTC-Diploma-of-Applied-Bitcoin/blob/main/Course%20Outline
+[License](/LICENSE)
+

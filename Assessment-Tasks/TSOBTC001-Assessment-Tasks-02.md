@@ -15,6 +15,8 @@
 
 
 
-## Relates to:
+## Related:
 
 [TSOBTC001 - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+
+[License](/LICENSE)

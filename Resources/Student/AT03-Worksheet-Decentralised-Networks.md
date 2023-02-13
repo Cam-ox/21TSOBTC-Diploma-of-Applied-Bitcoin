@@ -50,7 +50,9 @@
 ||4.4|_Reward_ | How will you feel or what will you have as a result of achieving this?
 |||| **- Your reponses here -**
 
-## Relates to:
+## Related:
 [TSOBTC001 - Assessment Task 03](/)
 
 [TSOBTC001 - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+
+[License](/LICENSE)

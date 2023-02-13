@@ -62,7 +62,9 @@ It is important to be flexible with how these questions are framed and used. The
 ||4.3|_Antecedence_ | What obstacles or limitations might prevent the outcome?
 ||4.4|_Reward_ | How will it feel when the result is achieved?
 
-# Relates to:
+## Related:
 [Open Learning Framework](/Resources/Open-Learning-Framework.md)
 
 [Open Learning Model](/Resources/Teaching/Readme.md)
+
+[License](/LICENSE)

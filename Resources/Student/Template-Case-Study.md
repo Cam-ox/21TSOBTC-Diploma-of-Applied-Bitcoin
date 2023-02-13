@@ -73,3 +73,7 @@ studied.
 ## Note:
 
 ### These sections can be modified or expanded based on the specific needs of your case study. The most important thing is to ensure that you present a thorough and well-supported analysis of the problem and solution, and that you draw meaningful conclusions from your results.
+
+## Related:
+
+[License](/LICENSE)

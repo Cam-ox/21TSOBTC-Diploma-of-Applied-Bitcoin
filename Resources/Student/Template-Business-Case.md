@@ -60,3 +60,7 @@ In this section, you can include any supporting information or documentation tha
 
 ## Note:
 These elements can be modified or expanded based on the specific needs of your business case. The most important thing is to ensure that you present a comprehensive and well-supported analysis of the problem or opportunity, the proposed solution, and the expected outcomes and benefits.
+
+## Related:
+
+[License](/LICENSE)
