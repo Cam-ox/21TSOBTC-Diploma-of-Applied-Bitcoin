@@ -18,8 +18,8 @@
 * Your congruencey determines your results. 
 
 
-|||||||
-|-----:|----:|:-----|:-----|:-----|:-----
+|||||
+|-----:|----:|:-----|:-----
 |**1**|**Directional**||
 ||1.1|_Intention_ | What is your intention behind doing this course?
 |||| **- Your reponses here -**

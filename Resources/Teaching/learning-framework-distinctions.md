@@ -39,8 +39,8 @@ It is important that you spend time establishing your question sets for a given 
 It is important to be flexible with how these questions are framed and used. They can be mixed together to form more complex questions or statements, often being more Outcome focused when a Specific Intention is applied.
 
 # Example: General Questions
-|||||||
-|-----:|----:|:-----|:-----|:-----|:-----
+|||||
+|-----:|----:|:-----|:-----
 |**1**|**Directional**||
 ||1.1|_Intention_ | What is the intention?
 ||1.2|_Attention_ | Where do you put your attention?
