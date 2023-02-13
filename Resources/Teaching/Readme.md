@@ -3,14 +3,6 @@ This learning framework provides a structured and intentional approach to learni
 
 The use of this learning framework has several key benefits, including increased student engagement and motivation, targeted and relevant instruction, and effective assessment and feedback. By providing a clear and actionable approach to learning, the learning framework helps individuals to make the most of their time and resources, and achieve their goals more efficiently and effectively.
 
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
 # Key Learning Distinctions
 
 |||
