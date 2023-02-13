@@ -34,7 +34,7 @@ Technology |Demonstrates a sophisticated understanding of principles, concepts, 
 ## Unit Mapping Information
 No equivalent unit. New unit.
 
-# Related:
+## Related:
 [Diploma of Applied Bitcoin - Course OUtline](/Course-Outline.md)
 
 [License](/LICENSE)
