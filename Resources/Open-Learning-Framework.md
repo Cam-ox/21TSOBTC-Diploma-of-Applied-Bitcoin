@@ -1,4 +1,4 @@
-# Self Lead Learning Model
+# Open Learning Model
 ## Introductoin
 This course is designed to provide you with the tools, resources and skills to undertake self lead learning and produce outcomes in relevant areas. The course has been designed to provide students with high level, yet comprehensive study areas that are both open and flexible. You should expect to acquire the relevant knowledge and skill to apply these learnings in a practical and real way.
 

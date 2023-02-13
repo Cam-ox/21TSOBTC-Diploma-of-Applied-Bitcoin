@@ -1,4 +1,4 @@
-# TSOBTC001 - Git Basics and Opensource Learning
+# TSOBTC001 - Git Basics and Open Learning
 
 ## Application
 This unit describes the skills and knowledge required to identify, develop and maintain a decentralised network utilising git.
@@ -11,10 +11,10 @@ Bitcoin
 Elements | Performance Critera
 | :--- | :---
 Elements describe the essential outcomes  | Performance criteria describe the performance needed to demonstrate achievement of the element.
-Utilising git as a distributed version control system that tracks changes in any set of computer files  |Create a repo - to put a project up on git, you will need to create a repository for it to live in. <br><br>Fork a repo - A fork is a new repository that shares code and visibility settings with the original “upstream” repository.<br><br> Contributing to projects - Learn how to contribute to a project through forking.<br><br>Communicating on git - You can discuss specific projects and changes, as well as broader ideas or team goals, using different types of discussions on git.
-Identify and design a decentralised network |Gather data according to web5 needs<br><br> Determine security and platform for decentralised network<br><br>Document design plan for decentralised network.
-Implement decentralised network| Set up required platform according to design plan<br><br>Initialise decentralised network solution according specifications<br><br>Share content via decentralised network<br><br>Debug and scale decentralised network
-Maintain decentralised network|Test performance of ecentralised network<br><br>Determine and conduct maintenance tests
+Utilising git as a distributed version control system that tracks changes in sets of computer files  |Create a repo - to put a project up on git, you will need to create a repository for it to live in.<p> Fork a repo - A fork is a new repository that shares code and visibility settings with the original “upstream” repository.<p> Contributing to projects - Learn how to contribute to a project through forking.<p>Communicating on git - You can discuss specific projects and changes, as well as broader ideas or team goals, using different types of discussions on git.<p> Work with markdown scripting language to create documents and discuss ideas.<p>Organise and post markdown documents in your repository.
+Identify Learning Goals and Objectives |Utilise Open Learning Framework.<p><p>Complete a learning plan.<p>Post learning plan in Git respository.<p>Communicate learning plan.
+Investigate decentralised networks| Utilise Q&A framework to explore decentralised networks in today's society.
+
 
 ## Foundaton Skills
 *This section describes those language, literacy, numeracy and employment skills that are essential to performance but not explicit in the erformance criteria.*

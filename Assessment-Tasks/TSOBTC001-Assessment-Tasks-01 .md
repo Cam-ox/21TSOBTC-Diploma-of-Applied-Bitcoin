@@ -24,4 +24,4 @@
 
 ## Relates to:
 
-[TSOBTC001 - Git Basics and Opensource Learning](/Units%20of%20Competency/TSOBTC001%20-%20Git%20Basics%20and%20Opensource%20Learning.md)
+[TSOBTC001 - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
