@@ -19,7 +19,7 @@
 
 [21TSOBTC - Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
 
-[TSOBTC001 - Unit of Competency - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+[TSOBTC001 - Unit of Competency - Git Basics, Decentralised Networks and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
 
 [TSOBTC001 - Assessment Task - 03 - Worksheet.](/Resources/Student/TSOBTC001-AT03-Learning-Objective-Goals.md)
 

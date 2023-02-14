@@ -37,11 +37,11 @@ No equivalent unit. New unit.
 ## Related:
 [Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
 
-[BSOBTC001 - Assessment Task - 01](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-01.md)
+[BSOBTC001 - Assessment Task - 01 - Setup and use GitHub](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-01.md)
 
-[BSOBTC001 - Assessment Task - 02](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md)
+[BSOBTC001 - Assessment Task - 02 - Decentralised Networks](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md)
 
-[BSOBTC001 - Assessment Task - 03](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-03.md)
+[BSOBTC001 - Assessment Task - 03 - Establish Learning Outcomes and Goals](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-03.md)
 
 [License](/LICENSE)
 

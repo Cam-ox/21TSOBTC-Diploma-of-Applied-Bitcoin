@@ -1,5 +1,5 @@
 # TSOBTC001 - Assessment Task 01
-## Git Basics, Decentralised Networks and Open Learning
+## Git Basics:  Setup and use GitHub, create a markdown document
 <br>
 
 ### Assessment Type: 
@@ -24,7 +24,9 @@
 
 ## Related:
 
-[TSOBTC001 - Unit of Compemtency - Git Basics, Decentralised Networks and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+[21TSOBTC - Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
+
+[TSOBTC001 - Unit of Competency - Git Basics, Decentralised Networks and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
 
 
 [License](/LICENSE)
