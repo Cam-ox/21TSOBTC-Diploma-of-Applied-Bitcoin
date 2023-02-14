@@ -1,22 +1,33 @@
 # TSOBTC001 - Assessment Task 02
-## Define your Learning Objectives
+## Develop an appreciation of Decentralised Networks
 
 ### Assessment Type: 
     Knowledge and Skill
 ### Assessment Tasks
-    Establish Learnng Goals and Objectves
+    Questions, Answers and Summary
 
 ## Task 02 - Practical
 
 
-1. Read through the [Open Learning Framework](/Resources/Open-Learning-Framework.md)
-1. Using a the [Course Oultne](/Course-Outline.md) as a guide, complete the [Learnnig Objectves Worksheet.](/Resources/Student/AT02-Worksheet-Learning-Objective-Goals.md) 
-1. Push completed worksheet to your Assessment folder.
+1. Using this [Assessment Task Worksheet](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md) create four relevant questions in each of the four areas. Refer to the [Open Learning Framework](/Resources/Open-Learning-Framework.md) for additional guidance. 
+1. Using [chat.openai](https://chat.openai.com/) prompt for answers to each of your questions on Decentralised Networks, one at a time.
+1. Review for quality, regenerate reponse if required 
+1. Update to localised speelling where required 
+1. Use the formatting provided including bold, page breaks and tables where relevant
+1. Upon complettion, create a summary of reponses, using the Summary section in the Assessment Task document.
+1. Push completed worksheet to your Assessment folder
 
-
+<br>
 
 ## Related:
 
-[TSOBTC001 - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+[TSOBTC001 - Unit of Competency - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+
+[TSOBTC001 - Assessment Task - 02 - Worksheet](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md)
+
+[Open Learning Framework](/Resources/Open-Learning-Framework.md)
+
+[chat.openai.com](https://chat.openai.com/)
+
 
 [License](/LICENSE)

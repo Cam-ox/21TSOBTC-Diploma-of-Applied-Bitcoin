@@ -12,8 +12,8 @@ Elements | Performance Critera
 | :--- | :---
 Elements describe the essential outcomes  | Performance criteria describe the performance needed to demonstrate achievement of the element.
 Utilising git as a distributed version control system that tracks changes in sets of computer files  |Create a repo - to put a project up on git, you will need to create a repository for it to live in.<p><p> Fork a repo - A fork is a new repository that shares code and visibility settings with the original “upstream” repository.<p> Contributing to projects - Learn how to contribute to a project through forking.<p>Communicating on git - You can discuss specific projects and changes, as well as broader ideas or team goals, using different types of discussions on git.<p> Work with markdown scripting language to create documents and discuss ideas.<p>Organise and post markdown documents in your repository.
-Identify Learning Goals and Objectives |Utilise Open Learning Framework.<p><p>Complete a learning plan.<p>Post learning plan in Git respository.<p>Communicate learning plan.
 Investigate decentralised networks| Utilise Q&A framework to explore decentralised networks in today's society.
+Identify Learning Goals and Objectives |Utilise Open Learning Framework.<p><p>Complete a learning plan.<p>Post learning plan in Git respository.<p>Communicate learning plan.
 
 
 ## Foundaton Skills
@@ -36,6 +36,12 @@ No equivalent unit. New unit.
 
 ## Related:
 [Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
+
+[BSOBTC001 - Assessment Task - 01](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-01.md)
+
+[BSOBTC001 - Assessment Task - 02](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md)
+
+[BSOBTC001 - Assessment Task - 03](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-03.md)
 
 [License](/LICENSE)
 
