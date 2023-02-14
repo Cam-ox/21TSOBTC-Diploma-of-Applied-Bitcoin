@@ -1,5 +1,5 @@
 # TSOBTC001 - Assessment Task 01
-## Git Basics and Opensource Learning
+## Git Basics, Decentralised Networks and Open Learning
 <br>
 
 ### Assessment Type: 
