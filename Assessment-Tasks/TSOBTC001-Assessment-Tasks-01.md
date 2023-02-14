@@ -24,6 +24,6 @@
 
 ## Related:
 
-[TSOBTC001 - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+[TSOBTC001 - Git Basics, Decentralised Networks and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
 
 [License](/LICENSE)
