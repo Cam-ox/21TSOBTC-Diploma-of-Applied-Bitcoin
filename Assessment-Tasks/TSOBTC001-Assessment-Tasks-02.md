@@ -23,7 +23,7 @@
 
 [TSOBTC001 - Unit of Competency - Git Basics, Decentralised Networks and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
 
-[TSOBTC001 - Assessment Task - 02 - Worksheet](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md)
+[TSOBTC001 - Assessment Task - 02 - Worksheet](/Resources/Student/TSOBTC001/TSOBTC001-AT02-Decentralised-Networks.md)
 
 [Open Learning Framework](/Resources/Open-Learning-Framework.md)
 
