@@ -5,7 +5,7 @@
 ### Assessment Type: 
     Knowledge and Skill
 ### Assessment Tasks
-    Research different subjects areas appropriate for communication Bitcoin within a business.
+    Research different subjects areas appropriate for communicating Bitcoin within a business.
 
 ## Task 01 - Select subject areas and create a report on Communicating Bitcoin in Business.
 
@@ -26,11 +26,10 @@
 
 [21TSOBTC - Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
 
-[TSOBTC002 - Unit of Competency - Communication Bitcoin in Business](/Units-of-Competency/TSOBTC002-Communicating-Bitcoin-in-Business.md)
+[TSOBTC002 - Unit of Competency - Communicating Bitcoin in Business](/Units-of-Competency/TSOBTC002-Communicating-Bitcoin-in-Business.md)
 
 [TSOBTC002 - Assessment Task - 01 - Bitcoin Business Report - Subject Area Guide](/Resources/Student/TSOBTC002/TSOBTC002-AT01-Bitcoin-Business-Report-Outline.md)
 
 [TSOBTC002 - Assessment Task - 01 - Bitcoin Business Report - Example Report](/Resources/Student/TSOBTC002/TSOBTC002-AT01-research-report-history-of-money-bitcoin.md)
-
 
 [License](/LICENSE)
