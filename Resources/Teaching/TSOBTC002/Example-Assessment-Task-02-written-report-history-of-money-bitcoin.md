@@ -135,7 +135,7 @@ Bitcoin is a decentralised digital currency that operates without the need for a
 
 The potential for Bitcoin to transform the financial system is significant. Its decentralised nature and lack of central authority make it resistant to inflation and government interference, which could be particularly appealing to those who are disillusioned with traditional financial systems. However, there are also concerns around its volatility, lack of widespread adoption, and potential for illicit activities.
 
-### ** Implications for the future of money and the financial system**
+### **Implications for the future of money and the financial system**
 
 Given the potential of Bitcoin, it is important for policymakers, regulators, and businesses to better understand its implications for the future of money and the financial system. Further research and exploration are needed to fully understand the risks and opportunities associated with Bitcoin and other cryptocurrencies. As such, it is recommended that more research be conducted in this area to help inform future decisions and policies.
 
