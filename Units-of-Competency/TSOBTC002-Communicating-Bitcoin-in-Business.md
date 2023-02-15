@@ -1,4 +1,4 @@
-# TSOBTC002 - What is Money and how is Bitcoin different from the current Fiat system
+# TSOBTC002 - Communicating Bitcoin in Business
 
 ## Application
 This unit describes the skills and knowledge required to develop and understanding of money and the role it plays in society. Through research explore how Bitcoin is different to from the existing monetary system.
