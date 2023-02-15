@@ -6,7 +6,7 @@
 |Course Name: | Diploma of Applied Bitcoin
 |Your Name: | Teacher, Open Learning
 |Student ID: | XXXX-XXX
-|Assessment Task | 03 - About decentralised networks
+|Assessment Task | 02 - About decentralised networks
 
 
 

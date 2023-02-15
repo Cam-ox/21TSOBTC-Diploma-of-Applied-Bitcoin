@@ -6,7 +6,8 @@
 |Course Name: | Diploma of Applied Bitcoin
 |Your Name: | Last name, First Name
 |Student ID: | XXXX-XXX
-|Assessment Task |Unit Number - Assessment Task Number - Title
+|Unit: | TSCOBTCXXXXXX
+|Assessment Task | ## 
 
 
 
@@ -91,8 +92,11 @@
 
 
 ## Related:
+
+[21TSOBTC - Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
+
 [TSOBTCXXX - Assessment Task XX](/)
 
-[Unit - TSOBTC001 - Name](/)
+[Unit - TSOBTCXXXX - Name](/)
 
 [License](/LICENSE)

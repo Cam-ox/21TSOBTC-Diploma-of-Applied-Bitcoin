@@ -1,4 +1,4 @@
-# Study Area - Focus Area
+# Decentralised Networks - Questions, Answers and Summary
 
 |||
 |:-----|:-----
@@ -6,8 +6,8 @@
 |Course Name: | Diploma of Applied Bitcoin
 |Your Name: | Last name, First Name
 |Student ID: | XXXX-XXX
-|Assessment Task |Unit Number - Assessment Task Number - Title
-
+|Unit: | TSOBTC001
+|Assessment Task | 02 - About decentralised networks
 
 
 ||||
@@ -91,8 +91,9 @@
 
 
 ## Related:
-[TSOBTCXXX - Assessment Task XX](/)
+[TSOBTC001 - Assessment Task 02](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md)
 
-[Unit - TSOBTC001 - Name](/)
+
+[TSOBTC001 - Git Basics, Decentralised Networks and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
 
 [License](/LICENSE)

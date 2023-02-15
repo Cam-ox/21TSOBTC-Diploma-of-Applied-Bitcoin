@@ -58,8 +58,8 @@
 |||| **- Your reponses here -**
 
 ## Related:
-[TSOBTC001 - Assessment Task 02](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md)
+[TSOBTC001 - Assessment Task 03 - Learning Goals and Objectives](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-03.md)
 
-[TSOBTC001 - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+[TSOBTC001 - Unit - Git Basics and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
 
 [License](/LICENSE)

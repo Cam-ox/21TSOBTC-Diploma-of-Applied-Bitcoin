@@ -54,6 +54,15 @@ It is important to be flexible with how these questions are framed and used. The
 ||4.3|_Antecedence_ | What obstacles or limitations might prevent the outcome?
 ||4.4|_Reward_ | How will it feel when the result is achieved?
 
+
 ## Related:
+
+[TSOBTC001 - Git Basics, Decentralised Networks and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+
+[TSOBTC001 - Assessment Task - 03 - Define your Learning Objectives ](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-03.md)
+
+[Reference: - Open Learning Framework](/Resources/Student/TSOBTC001/Open-Learning-Framework.md)
+
+[21TSOBTC - Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
 
 [License](/LICENSE)
