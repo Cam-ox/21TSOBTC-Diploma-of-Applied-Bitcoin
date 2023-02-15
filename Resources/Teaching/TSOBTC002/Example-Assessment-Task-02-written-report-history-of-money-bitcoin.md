@@ -95,24 +95,24 @@ Bitcoin's potential lies in its ability to offer several advantages over traditi
 
 ### **Bitcoin advantages:**[[21]](#21---the-benefits-of-bitcoin--how-does-bitcoin-work)
 
-**Decentralisation:** Bitcoin is not controlled by any central authority or government, which provides greater security and transparency for users.
+* **Decentralisation:** Bitcoin is not controlled by any central authority or government, which provides greater security and transparency for users.
 
-**Limited supply:** With a total supply of 21 million units, Bitcoin is considered scarce, which may help it retain value and become a better store of value over time.
+* **Limited supply:** With a total supply of 21 million units, Bitcoin is considered scarce, which may help it retain value and become a better store of value over time.
 
-**Lower transaction fees:** Bitcoin transactions are generally cheaper than traditional bank transfers or credit card payments.
+* **Lower transaction fees:** Bitcoin transactions are generally cheaper than traditional bank transfers or credit card payments.
 Faster transactions: Bitcoin transactions can be completed within minutes, which is much faster than traditional international bank transfers.
 
-**Accessibility:** Anyone with an internet connection can use Bitcoin, which makes it more accessible to people around the world.
+* **Accessibility:** Anyone with an internet connection can use Bitcoin, which makes it more accessible to people around the world.
 
 ### **Bitcoin disadvantages:**[[22]](#22---disadvantages--bitcoin)
 
-**Volatility:** The value of Bitcoin can be highly volatile, which can make it risky for some investors.
+* **Volatility:** The value of Bitcoin can be highly volatile, which can make it risky for some investors.
 
-**Limited acceptance:** While Bitcoin is gaining wider acceptance, it is still not accepted by all merchants and businesses.
+* **Limited acceptance:** While Bitcoin is gaining wider acceptance, it is still not accepted by all merchants and businesses.
 
-**Security risks:** Despite its advanced cryptography, Bitcoin can still be vulnerable to hacking and other types of security breaches.
+* **Security risks:** Despite its advanced cryptography, Bitcoin can still be vulnerable to hacking and other types of security breaches.
 
-**Regulatory risks:** Governments and central banks may seek to regulate or ban Bitcoin, which could limit its adoption and use.
+* **Regulatory risks:** Governments and central banks may seek to regulate or ban Bitcoin, which could limit its adoption and use.
 
 ### **Potential to transform the financial system**
 
