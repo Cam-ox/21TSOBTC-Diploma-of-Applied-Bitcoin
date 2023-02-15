@@ -10,8 +10,8 @@ Bitcoin
 Elements | Performance Critera
 | :--- | :---
 Elements describe the essential outcomes  | Performance criteria describe the performance needed to demonstrate achievement of the element.
-Utilising variuos research methods explore the role and hisatory of money in society  |Develop research questions to explore.<p><p> Research each of these areas.<p> Produce a report based on these findings.
-Investigate how Bitcoin is different from the historical forms and current forms of money| Develop research questions to explore.<p><p>Research each of these areas.<p>Produce a report based on these findings.
+Utilising various research methods explore the role and history of money in society  |Identify and select research questions to explore.<p><p> Research each selected subject.<p>Maintain a record of research references.
+Investigate how Bitcoin is different and similar from the historical forms of and current forms of money.| Complie results from selected study area.<p><p><p>Produce a Bitcoin in Business report based on these findings.
 
 
 

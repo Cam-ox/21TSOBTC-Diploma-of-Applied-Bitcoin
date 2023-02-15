@@ -3,7 +3,7 @@
 Unit Code | Unit Description | Assessment Type |Assessment Tasks
 | :--- | :--- | :--- | :---
 [TSOBTC001](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md) |Git Basics, Decentralised Networks and Open Learning |Knowledge + Skill | [Practical](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-01.md) + [Q&A](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md)
-TSOBTC002 |What is Money and how is Bitcoin different from the current Fiat system |Knowledge | Case Study
+[TSOBTC002](/Units-of-Competency/TSOBTC002-Communicating-Bitcoin-in-Business.md) |Communicating Bitcoin in Business |Knowledge + Skill| [Report](/Assessment-Tasks/TSOBTC002-Assessment-Tasks-01.md)
 TSOBTC003 |Asymmetric encryption, UTXO and Bitcoin Addresses | Knowledge | Q&A
 TSOBTC004 |Bitcoin Privacy and Security |Knowledge + Skill | Q&A + Practical
 TSOBTC005 |Blockchain analysis and making transaction |Knowlegde + Skill | Q&A + Practical

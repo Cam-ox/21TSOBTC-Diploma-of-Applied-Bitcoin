@@ -1,32 +1,36 @@
-# TSOBTC001 - Assessment Task 01
-## Git Basics:  Setup and use GitHub, create a markdown document
+# TSOBTC002 - Assessment Task 01
+## Communicating Bitcoin in Business 
 <br>
 
 ### Assessment Type: 
     Knowledge and Skill
 ### Assessment Tasks
-    Practical - Setup and Use Git
+    Research different subjects areas appropriate for communication Bitcoin within a business.
 
-## Task 01 - Practical
+## Task 01 - Select subject areas and create a report on Communicating Bitcoin in Business.
 
 
- 1. Create a Github Account
-    * LINK using your Student ID and Name as your username
-    * Use the following naming conversion 
-        * SudentID-LastnameFinital (BlogsJ)
-        * XXXXXXXX-BlogsJ
-    * Pull down this repository
+ 1. Research subject areas.
+    * Using the [Subject Area Guide](/Resources/Student/TSOBTC002/TSOBTC002-AT01-Bitcoin-Business-Report-Outline.md) provided, Identify and select Study and Research areas.
+    * Research selected areas.
+    * Compile and review research.
+    * Keep a record of references used in your research.
+<br><br>
 
-2. Create a markdown document "LastnameFinital.md"
-    * Experment with GitHub markdown code
-    * Use this [guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) as a reference
-    * Experiment with [advanced](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) formating like tables
+2. Create a Bitcoin in Business report
+    * Based on your selected research subjects, compile the report.
+    * Use the [Example Report](/Resources/Student/TSOBTC002/TSOBTC002-AT01-research-report-history-of-money-bitcoin.md) provided as a guide for report formatting and presentation.
+    * Upload your report to your Assessment Repository. 
 
 ## Related:
 
 [21TSOBTC - Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
 
-[TSOBTC001 - Unit of Competency - Git Basics, Decentralised Networks and Open Learning](/Units-of-Competency/TSOBTC001-Git-Basics-Open-Learning.md)
+[TSOBTC002 - Unit of Competency - Communication Bitcoin in Business](/Units-of-Competency/TSOBTC002-Communicating-Bitcoin-in-Business.md)
+
+[TSOBTC002 - Assessment Task - 01 - Bitcoin Business Report - Subject Area Guide](/Resources/Student/TSOBTC002/TSOBTC002-AT01-Bitcoin-Business-Report-Outline.md)
+
+[TSOBTC002 - Assessment Task - 01 - Bitcoin Business Report - Example Report](/Resources/Student/TSOBTC002/TSOBTC002-AT01-research-report-history-of-money-bitcoin.md)
 
 
 [License](/LICENSE)
