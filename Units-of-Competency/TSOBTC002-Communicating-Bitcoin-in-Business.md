@@ -34,13 +34,14 @@ Technology |Demonstrates a sophisticated understanding of principles, concepts, 
 No equivalent unit. New unit.
 
 ## Related:
-[Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
 
-[BSOBTC002 - Assessment Task - 01 - Develop research questions and undertake research](/Assessment-Tasks/TSOBTC002-Assessment-Tasks-01.md)
+[21TSOBTC - Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
 
-[BSOBTC002 - Assessment Task - 02 - Write a report on the exisitng monetary system and how Bitcoin is different](/Assessment-Tasks/TSOBTC002-Assessment-Tasks-02.md)
+[TSOBTC002 - Assessment Task - 01 - Communicating Bitcoin in Business](/Assessment-Tasks/TSOBTC002-Assessment-Tasks-01.md)
 
+[TSOBTC002 - Assessment Task - 01 - Bitcoin Business Report - Subject Area Guide](/Resources/Student/TSOBTC002/TSOBTC002-AT01-Bitcoin-Business-Report-Outline.md)
 
+[TSOBTC002 - Assessment Task - 01 - Bitcoin Business Report - Example Report](/Resources/Student/TSOBTC002/TSOBTC002-AT01-research-report-history-of-money-bitcoin.md)
 
 [License](/LICENSE)
 
