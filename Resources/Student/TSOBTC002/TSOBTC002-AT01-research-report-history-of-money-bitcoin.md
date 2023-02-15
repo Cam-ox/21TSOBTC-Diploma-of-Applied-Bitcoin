@@ -194,3 +194,17 @@ While there are certainly risks and challenges associated with Bitcoin, its pote
 #### [[23]](#the-potential-of-bitcoin) - [Bitcoin could potentially become the 21st century gold.](https://www.db.com/what-next/digital-disruption/dossier-payments/i-could-potentially-see-bitcoin-to-become-the-21st-century-gold)
 
 #### [[24]](#the-potential-of-bitcoin) - [7 Unique Challenges in Cryptocurrency Risk Management - GARP](https://www.garp.org/risk-intelligence/technology/7-unique-challenges-in-cryptocurrency-risk-management)
+
+<br>
+
+## Relates to:
+
+[21TSOBTC - Diploma of Applied Bitcoin - Course Outline](/Course-Outline.md)
+
+[TSOBTC002 - Unit of Competency - Communicating Bitcoin in Business](/Units-of-Competency/TSOBTC002-Communicating-Bitcoin-in-Business.md)
+
+[TSOBTC002 - Assessment Task - 01 - Communicating Bitcoin in Business](/Assessment-Tasks/TSOBTC002-Assessment-Tasks-01.md)
+
+[TSOBTC002 - Assessment Task - 01 - Bitcoin Business Report - Subject Area Guide](/Resources/Student/TSOBTC002/TSOBTC002-AT01-Bitcoin-Business-Report-Outline.md)
+
+[License](/LICENSE)
