@@ -47,7 +47,7 @@ It is important to be flexible with how these questions are framed and used. The
 ||3.1|_Why_ | Why is this done a certain way?
 ||3.2|_How_ | How has it been done before?
 ||3.3|_Does_ | What learning has previously been applied?
-||3.4|_Happens_ | Is there any automatic or relfex response required?
+||3.4|_Happens_ | Is there any automatic or reflex response required?
 |**4**|**Production**||
 ||4.1|_Specific_ | Why is this done a certain way?
 ||4.2|_Outcome_ | How is it known when the outcome is achieved, how is this measured?

@@ -11,10 +11,10 @@
 
 1. Using this [Assessment Task Worksheet](/Resources/Student/TSOBTC001/TSOBTC001-AT02-Decentralised-Networks.md) create four relevant questions in each of the four areas. Refer to the [Open Learning Framework](/Resources/Student/TSOBTC001/Open-Learning-Framework.md) for additional guidance. 
 1. Using [chat.openai](https://chat.openai.com/) prompt for answers to each of your questions on Decentralised Networks, one at a time.
-1. Review for quality, regenerate reponse if required 
-1. Update to localised speelling where required 
+1. Review for quality, regenerate response if required 
+1. Update to localised spelling where required 
 1. Use the formatting provided including bold, page breaks and tables where relevant
-1. Upon complettion, create a summary of reponses, using the Summary section in the Assessment Task document.
+1. Upon completion, create a summary of responses, using the Summary section in the Assessment Task document.
 1. Push completed worksheet to your Assessment folder
 
 <br>

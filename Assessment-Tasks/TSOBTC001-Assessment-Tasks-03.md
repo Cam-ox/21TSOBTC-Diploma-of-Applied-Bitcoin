@@ -10,7 +10,7 @@
 
 
 1. Read through the [Open Learning Framework](/Resources/Student/TSOBTC001/Open-Learning-Framework.md)
-1. Using a the [Course Oultne](/Course-Outline.md) as a guide and your research into [Decentralised Networks](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md), complete the [Learnnig Objectves Worksheet.](/Resources/Student/TSOBTC001/TSOBTC001-AT03-Learning-Objective-Goals.md) 
+1. Using a the [Course Outline](/Course-Outline.md) as a guide and your research into [Decentralised Networks](/Assessment-Tasks/TSOBTC001-Assessment-Tasks-02.md), complete the [Learnig Objectives Worksheet.](/Resources/Student/TSOBTC001/TSOBTC001-AT03-Learning-Objective-Goals.md) 
 1. Push completed worksheet to your Assessment folder.
 
 <br>

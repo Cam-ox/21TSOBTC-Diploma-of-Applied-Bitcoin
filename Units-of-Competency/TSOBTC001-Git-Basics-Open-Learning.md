@@ -17,7 +17,7 @@ Identify Learning Goals and Objectives |Utilise Open Learning Framework.<p><p>Co
 
 
 ## Foundaton Skills
-*This section describes those language, literacy, numeracy and employment skills that are essential to performance but not explicit in the erformance criteria.*
+*This section describes those language, literacy, numeracy and employment skills that are essential to performance but not explicit in the performance criteria.*
 
 Skill  | Description
 | :--- | :---

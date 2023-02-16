@@ -18,7 +18,7 @@
     * Pull down this repository
 
 2. Create a markdown document "LastnameFinital.md"
-    * Experment with GitHub markdown code
+    * Experiment with GitHub markdown code
     * Use this [guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) as a reference
     * Experiment with [advanced](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) formating like tables
 
