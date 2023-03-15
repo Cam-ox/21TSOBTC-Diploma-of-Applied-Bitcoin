@@ -20,7 +20,7 @@
 2. Create a markdown document "LastnameFinital.md"
     * Experiment with GitHub markdown code
     * Use this [guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) as a reference
-    * Experiment with [advanced](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) formating like tables
+    * Experiment with [advanced](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) formatting like tables
 
 ## Related:
 
